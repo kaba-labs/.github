@@ -6,12 +6,12 @@
 
 ## A Quick Overview
 
-Kaba is the secure platform that will transform the way we think about personal computers and security. At Kaba we use a techique we call "Bi-directional Isolation™" to create a software airgap as our prevention foundation. You no longer need slow virtual machines to run applications that could be a threat.
+Kaba is the secure platform that will transform the way we think about personal computers and security. At Kaba we use a techique called "Bi-directional Isolation™" to create a software airgap as our prevention foundation. You no longer need slow virtual machines to run applications that could be a threat.
 
 The plan is to build the most Secure, Dveloper firendly, and Enterprise ready workspace. A workspace that doesn't depend on anything physical
 or even the operating system Kaba is running on. 
 
-We are looking for fellow sientists to join us on a mission of prevention. Using our current knowleadge and technology cybersecurity prevention is not only possible but steps away. Join us if you love any of these: AI, Security, Web Technologies, WebASM, Containers, Genetic Engineering, CRISPR or even just play Chess. **jobs@kabacorp.com**
+We are looking for fellow sientists to join us on a mission of prevention. Using our current knowleadge and technology cybersecurity prevention is not only possible but steps away. Join us if you love any of these: AI, Security, Web Technologies, WebASM, Containers, Genetic Engineering, CRISPR or even just playing Chess. **jobs@kabacorp.com**
 
 ## The Plan
 
