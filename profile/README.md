@@ -11,7 +11,7 @@ Kaba is the secure platform that will transform the way we think about personal 
 The plan is to build the most Secure, Dveloper firendly, and Enterprise ready workspace. A workspace that doesn't depend on anything physical
 or even the operating system Kaba is running on. 
 
-We are looking for fellow sientists to join us on a mission of prevention. Using our current knowleadge and technology cybersecurity prevention is not only possible but steps away. Join us if you love any of these: AI, Security, Web Technologies, WebASM, Containers, Genetic Engineering, CRISPR or even just playing Chess. **jobs@kabacorp.com**
+We are looking for fellow sientists to join us on a mission of prevention. Using our current knowleadge and technology cybersecurity prevention is not only possible but steps away. Join us if you love any of these: AI, Security, Web Technologies, WebASM, Containers, Genetic Engineering, CRISPR or even just playing Chess. **jobs@kabacorp.com** No degree or level of education nessesary - just skill, motivation (provided in part by us with equity) and determination.
 
 ## The Plan
 
