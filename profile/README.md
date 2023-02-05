@@ -21,8 +21,8 @@ or even the operating system Kaba is running on. Bi-directional Isolatrion.
 - [x] Plugin system for pre and post processing requests and reponses.
 - [x] Kaba Kernel (secret)
   - [x] Kaba Kloud: A way to sync files, configs, settings, permissions, passwords and policies in a secure and private way.
-  - [x] Use Kaba Kload to build Kaba Kode (Pre-Configured Kaba Developer Enviernments)
-  - [x] Use Kaba Kloud to collect data from the NSM, EDR, DFIR APIs
+  - [x] Kaba Kode (Pre-Configured Kaba Developer Enviernments)
+  - [x] Kaba Kollect to collect data from the NSM, EDR, DFIR APIs
 - [x] 360 Degree Preventive Security Product
 
 # Security
