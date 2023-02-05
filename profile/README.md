@@ -6,10 +6,10 @@
 
 ## A Quick Overview
 
-Kaba is a secure platform that will transform the way we think about personal computers.
+Kaba is the secure platform that will transform the way we think about personal computers and security. At Kaba we use a techique we call "Bi-directional Isolatrion™" to create a software airgap as our prevention foundation. You no longer need slow virtual machines to run applications that could be a threat.
 
 The plan is to build the most Secure, Dveloper firendly, and Enterprise ready workspace. A workspace that doesn't depend on anything physical
-or even the operating system Kaba is running on. "Bi-directional Isolatrion&trade;".
+or even the operating system Kaba is running on.
 
 ## The Plan
 
