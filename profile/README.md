@@ -28,7 +28,8 @@ or even the operating system Kaba is running on.
 # Security
 
 - [x] Build in NSM APIs (Network security monitoring)
-- [x] Built in EDR APIs (Endpoint Detection and Response)
+- [x] Built in EDR APIs (Endpoint Detection and Response) 
+  - A browser makes a great endpoint sensor. It has cross-platform low-level apis for every.
 - [x] Built in DFIR APIs (Digital Ferensics and Incident Response)
 - [x] Activley return fake data to requests for personal information or any informationm. (Helps Prevent Identity Modeling and destroy existing ones)
 - [x] APIs for connecting third-party security tools
