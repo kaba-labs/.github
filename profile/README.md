@@ -18,6 +18,11 @@ The plan is to build the most Secure, Dveloper firendly, and Enterprise ready wo
 - [x] Extention and chrome webstore support
 - [x] Crazy Performance
 - [x] Plugin system for pre and post processing requests and reponses.
+- [x] Kaba Kernel (secret)
+  - [x] Kaba Kloud: A way to sync files, configs, settings, permissions, passwords and policies in a secure and private way.
+  - [x] Use Kaba Kload to build Kaba Kode (Pre-Configured Kaba Developer Enviernments)
+  - [x] Use Kaba Kloud to collect data from the NSM, EDR, DFIR APIs
+- [x] 360 Degree Preventive Security Product
 
 # Security
 
@@ -25,9 +30,10 @@ The plan is to build the most Secure, Dveloper firendly, and Enterprise ready wo
 - [x] Built in EDR APIs (Endpoint Detection and Response)
 - [x] Built in DFIR APIs (Digital Ferensics and Incident Response)
 - [x] APIs for connecting third-party security tools
-- [x] Sandbox server for streaming a viewport over WebRTC
-- [x] Sandbox Mode on Demand
+- [x] Kaba Kage: Sandbox server for streaming a viewport over WebRTC
+- [x] Kaba Kage: Sandbox Mode on Demand
 - [x] Tor and VPN support
+- [ ] Add Kaba exit nodes worldwide.
 - [ ] WebASM Disassembler and other tooling
 
 # Developer
@@ -35,9 +41,10 @@ The plan is to build the most Secure, Dveloper firendly, and Enterprise ready wo
 - [x] Local terminal with hardware acceleration (I love vim)
 - [x] VS Code IDE for people who don't use terminal editors
 - [x] Attach and edit sites in real time
+- [x] Built-In Rest web client ([https://github.com/hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch))
 - [x] Container support for the terminal to change dev envs on the fly
-- [x] Outsource long compliation tasks to Kaba for builds in half the time.
-- [x] Kaba Kode: Keep your code with you at all times.
+- [x] Outsource long build or packaging tasks to your Kaba Kloud for times cut in half.
+- [x] Kaba Kloud & Kode: Keep your code with you at all times.
 
 # Filesystem
 
