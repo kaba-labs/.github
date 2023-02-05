@@ -1,6 +1,4 @@
-# Kaba Corp
-
-[![Kaba Browser](https://github.com/KabaCorp/kaba/actions/workflows/build.yml/badge.svg?branch=main&event=push)](https://github.com/KabaCorp/kaba/actions/workflows/build.yml)
+# Kaba Corp ([https://kabacorp.com](https://kabacorp.com))
 
 <img width="650" style="width:650px!important;" src="https://github.com/KabaCorp/.github/blob/main/profile/kaba-browser.gif?raw=true" />
 
