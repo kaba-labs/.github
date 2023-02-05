@@ -6,9 +6,10 @@
 
 ## A Quick Overview
 
-Kaba is a secure platform that transformss the way we work.
+Kaba is a secure platform that will transform the way we think about personal computer.
 
-The plan is to build the most Secure, Dveloper firendly, and Enterprise ready workspace.
+The plan is to build the most Secure, Dveloper firendly, and Enterprise ready workspace. A workspace that doesn't depend on anything physical
+or even the operating system Kaba is running on. Bi-directional Isolatrion.
 
 ## The Plan
 
