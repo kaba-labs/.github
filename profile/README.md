@@ -2,7 +2,7 @@
 
 [![Kaba Browser](https://github.com/KabaCorp/kaba/actions/workflows/build.yml/badge.svg?branch=main&event=push)](https://github.com/KabaCorp/kaba/actions/workflows/build.yml)
 
-<img width="550" style="width:550px!important;" src="./kaba-browser.gif" />
+<img width="650" style="width:650px!important;" src="./kaba-browser.gif" />
 
 ## A Quick Overview
 
