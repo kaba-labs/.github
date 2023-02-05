@@ -29,39 +29,43 @@ The plan is to build the most Secure, Dveloper firendly, and Enterprise ready wo
 - [x] Build in NSM APIs (Network security monitoring)
 - [x] Built in EDR APIs (Endpoint Detection and Response)
 - [x] Built in DFIR APIs (Digital Ferensics and Incident Response)
+- [x] Activley return fake data to requests for personal information or any informationm. (Helps Prevent Identity Modeling and destroy existing ones)
 - [x] APIs for connecting third-party security tools
-- [x] Kaba Kage: Sandbox server for streaming a viewport over WebRTC
-- [x] Kaba Kage: Sandbox Mode on Demand
-- [x] Tor and VPN support
-- [ ] Add Kaba exit nodes worldwide.
+- [x] Kaba Kage: Sandboxs on demand (server for streaming a viewport or anything over WebRTC)
+  - [x] Kaba Kage: Sandbox Mode on Demand
+  - [x] Tor and VPN support
+  - [ ] Add Kaba exit nodes worldwide.
 - [ ] WebASM Disassembler and other tooling
 
 # Developer
 
 - [x] Local terminal with hardware acceleration (I love vim)
 - [x] VS Code IDE for people who don't use terminal editors
-- [x] Attach and edit sites in real time
 - [x] Built-In Rest web client ([https://github.com/hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch))
-- [x] Container support for the terminal to change dev envs on the fly
-- [x] Outsource long build or packaging tasks to your Kaba Kloud for times cut in half.
+- [x] Attach and edit sites in real time
 - [x] Kaba Kloud & Kode: Keep your code with you at all times.
+  - [x] Container support for the terminal to change dev envs on the fly
+  - [x] Outsource long build or packaging tasks to your Kaba Kloud for times cut in half.
 
 # Filesystem
 
-- [x] Kaba Drive (KabaCorps Free Secure Storage)
-- [ ] Full support for the JuiceFS https://github.com/juicedata/juicefs
-- [ ] Dropbox
-- [ ] Box
+- [x] Kaba Drive
+  - [x] KabaCorps Free Secure Storage
+  - [ ] Dropbox
+  - [ ] Box
+  - [ ] Full support for the JuiceFS https://github.com/juicedata/juicefs
 
 # Enterprise
 
-- [x] Global management of browsers (policy, extentions, data collection, monitoring)
-- [x] Device Managment
-- [x] Identity Managment
-- [x] Passwordless Auth Company Wide.
+- [x] Kaba Kontrol - The brains behind unification
+  - [x] Global management of browsers (policy, extentions, data collection, monitoring)
+  - [x] Device Managment
+  - [x] Identity Managment
+  - [x] Auto-EDR, NSM, DFIR.
+  - [x] Passwordless Auth Company Wide.
+  - [x] GDPR policy around upload and download
+  - [x] Privacy Law enforcment by State regardless if the webserver is enforcing it.
 - [x] Kaba Meet (KabaCorps free zoom & google meet replacment)
-- [x] GDPR policy around upload and download
-- [x] Privacy Law enforcment by State regardless if the webserver is enforcing it.
 - [x] Accessibility features
 
 ## License
