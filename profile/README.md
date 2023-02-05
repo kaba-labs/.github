@@ -9,7 +9,9 @@
 Kaba is the secure platform that will transform the way we think about personal computers and security. At Kaba we use a techique we call "Bi-directional Isolatrion™" to create a software airgap as our prevention foundation. You no longer need slow virtual machines to run applications that could be a threat.
 
 The plan is to build the most Secure, Dveloper firendly, and Enterprise ready workspace. A workspace that doesn't depend on anything physical
-or even the operating system Kaba is running on.
+or even the operating system Kaba is running on. 
+
+We are looking for fellow sientists to join us on a mission of prevention. Using our current knowleadge and technology prevention is possible. **jobs@kabacorp.com**
 
 ## The Plan
 
@@ -29,7 +31,7 @@ or even the operating system Kaba is running on.
 
 - [x] Build in NSM APIs (Network security monitoring)
 - [x] Built in EDR APIs (Endpoint Detection and Response) 
-  - A browser makes a great endpoint sensor. It has cross-platform low-level apis for every.
+  - A browser makes a great endpoint sensor. It has cross-platform low-level apis for everything.
 - [x] Built in DFIR APIs (Digital Ferensics and Incident Response)
 - [x] Activley return fake data to requests for personal information or any informationm. (Helps Prevent Identity Modeling and destroy existing ones)
 - [x] APIs for connecting third-party security tools
