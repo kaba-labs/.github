@@ -64,6 +64,7 @@ We are looking for fellow scientists to join us on a mission of prevention. Usin
   - [x] Device Managment
   - [x] Identity Managment
   - [x] Auto-EDR, NSM, DFIR.
+  - [x] IP and R&D never leave your propery.
   - [x] Passwordless Auth Company Wide.
   - [x] GDPR policy around upload and download
   - [x] Privacy Law enforcment by State regardless if the webserver is enforcing it.
