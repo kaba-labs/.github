@@ -14,6 +14,9 @@ We are looking for fellow scientists to join us on a mission of prevention. Usin
 ## The Plan
 
 - [x] 1:1 Browser Functionality with Google Chrome
+  - No sketchy patch based project or fork of https://github.com/ungoogled-software/ungoogled-chromium
+  - Kaba uses the runtime and everything else was built in web technologies.
+  - This allows for very quick development of features.
 - [x] Tiling Window Manager (i3wm everywhere)
 - [x] Update / Installers
 - [x] Extention and chrome webstore support
