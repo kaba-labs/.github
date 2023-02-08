@@ -2,7 +2,7 @@
 
 <img width="650" style="width:650px!important;" src="https://github.com/KabaCorp/.github/blob/main/profile/kaba-browser.gif?raw=true" />
 
-## A Quick Overview
+# A Quick Overview
 
 Kaba is the secure platform that will transform the way we think about personal computers and security. At Kaba we use a techique called "Bi-directional Isolation™" to create a software airgap as our prevention foundation. You *no* longer need *slow virtual machines* to run applications that could be a threat.
 
@@ -11,7 +11,7 @@ or even the operating system Kaba is running on.
 
 We are looking for fellow scientists to join us on a mission of prevention. Using our current knowleadge and technology; cybersecurity prevention is not only possible but steps away. Join us if you love any of these: AI, Security, Web Technologies, WebASM, Containers, Genetic Engineering, CRISPR or even just playing Chess. **jobs@kabacorp.com** No degree or level of education nessesary - just skill, motivation (provided in part by us with equity) and determination.
 
-## The Plan
+# The Plan
 
 - [x] 1:1 Browser Functionality with Google Chrome
   - No sketchy patch based project or fork of https://github.com/ungoogled-software/ungoogled-chromium
@@ -28,7 +28,7 @@ We are looking for fellow scientists to join us on a mission of prevention. Usin
   - [x] Kaba Kollect to collect data from the NSM, EDR, DFIR APIs
 - [x] 360 Degree Preventive Security Product
 
-# Security
+## Security
 
 - [x] Build in NSM APIs (Network security monitoring)
 - [x] Built in EDR APIs (Endpoint Detection and Response) 
@@ -42,7 +42,7 @@ We are looking for fellow scientists to join us on a mission of prevention. Usin
   - [ ] Add Kaba exit nodes worldwide.
 - [ ] WebASM Disassembler and other tooling
 
-# Developer
+## Developer
 
 - [x] Local terminal with hardware acceleration (I love vim)
 - [x] VS Code IDE for people who don't use terminal editors
@@ -52,7 +52,7 @@ We are looking for fellow scientists to join us on a mission of prevention. Usin
   - [x] Container support for the terminal to change dev envs on the fly
   - [x] Outsource long build or packaging tasks to your Kaba Kloud for times cut in half.
 
-# Filesystem
+## Filesystem
 
 - [x] Kaba Drive
   - [x] KabaCorps Free Secure Storage
@@ -60,7 +60,7 @@ We are looking for fellow scientists to join us on a mission of prevention. Usin
   - [ ] Box
   - [ ] Full support for the JuiceFS https://github.com/juicedata/juicefs
 
-# Enterprise
+## Enterprise
 
 - [x] Kaba Kontrol - The brains behind unification
   - [x] Global management of browsers (policy, extentions, data collection, monitoring)
