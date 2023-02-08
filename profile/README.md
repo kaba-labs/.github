@@ -7,7 +7,7 @@
 Kaba is the secure platform that will transform the way we think about personal computers and security. At Kaba we use a techique called "Bi-directional Isolation™" to create a software airgap as our prevention foundation. You *no* longer need *slow virtual machines* to run applications that could be a threat.
 
 The plan is to build the most Secure, Dveloper firendly, and Enterprise ready workspace. A workspace that doesn't depend on anything physical
-or even the operating system Kaba is running on. 
+or even a operating system. 
 
 We are looking for fellow scientists to join us on a mission of prevention. Using our current knowleadge and technology; cybersecurity prevention is not only possible but steps away. Join us if you love any of these: AI, Security, Web Technologies, WebASM, Containers, Genetic Engineering, CRISPR or even just playing Chess. **jobs@kabacorp.com** No degree or level of education nessesary - just skill, motivation (provided in part by us with equity) and determination.
 
@@ -30,11 +30,11 @@ We are looking for fellow scientists to join us on a mission of prevention. Usin
 
 ## Security
 
-- [x] Build in NSM APIs (Network security monitoring)
+- [x] Built in NSM APIs (Network security monitoring)
 - [x] Built in EDR APIs (Endpoint Detection and Response) 
   - A browser makes a great endpoint sensor. It has cross-platform low-level apis for everything.
 - [x] Built in DFIR APIs (Digital Ferensics and Incident Response)
-- [x] Activley return fake data to requests for personal information or any informationm. (Helps Prevent Identity Modeling and destroy existing ones)
+- [x] Activley return fake data to requests for personal information or any information. (Helps Prevent Identity Modeling and destroy existing ones)
 - [x] APIs for connecting third-party security tools
 - [x] Kaba Kage: Sandboxs on demand (server for streaming a viewport or anything over WebRTC)
   - [x] Kaba Kage: Sandbox Mode on Demand
