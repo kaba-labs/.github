@@ -1,4 +1,4 @@
-# Kaba ([kaba.ai](https://kaba.ai))
+# Kaba Source Code & Security Timeline
 
 ## Next Steps
 
@@ -7,3 +7,6 @@
 ## Open Source
 
 ## SDK
+
+---
+([kaba.ai](https://kaba.ai))
