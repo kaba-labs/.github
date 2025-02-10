@@ -12,13 +12,15 @@
   * 
 ## Documentation / Kaba Protocol SDK
  * In progress
+ * Past Manifest v3 to Real applications and edge compute
 
 ## Sync Is The New Cloud
  * p2p/direct
  * .kaba routing
  * mesh networks for files/compute/wasm
 
-## Past Manifest v3 to Real applications and edge compute
+## window.security & window.ai
+ * Kaba Console SDK/API or build your own.
 
 ---
 ([Kaba Kaba!](https://kaba.ai))
