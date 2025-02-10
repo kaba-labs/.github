@@ -14,4 +14,4 @@
 ## Past Manifest v3 to Real applications and edge compute
 
 ---
-([kaba.ai](https://kaba.ai))
+([Kaba Kaba!](https://kaba.ai))
