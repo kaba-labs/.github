@@ -1,12 +1,17 @@
 # Kaba Source Code & Security Timeline
 
-## Next Steps
+## GPLv3 Everything
+  * kaba
+  * kaba-server
+  * kaba-cli
 
-## Security
+## Code Audits
 
-## Open Source
+## Documentation / Kaba Protocol SDK
 
-## SDK
+## Sync Is The New Cloud
+
+## Past Manifest v3 to Real applications and edge compute
 
 ---
 ([kaba.ai](https://kaba.ai))
