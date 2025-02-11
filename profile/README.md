@@ -1,5 +1,7 @@
 # Source Code & Timeline
 
+Be sure to checkout [kaba.ai](https://kaba.ai) first if you havent. It will give you a high level overview. This is more in the weeds on open source, deployment, clustering and hardware. 
+
 ### GPLv3 Everything
 
 - kaba (console) [coming soon](https://github.com/kaba-labs)
