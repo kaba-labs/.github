@@ -30,7 +30,7 @@
 
 ## TuringPi & kaba Enclave (kaba-server/k3s)
 
-![alt text](https://github.com/kaba-labs/.github/blob/main/kaba-server-turing-pi.png?raw=true)
+![kaba-server-turing-pi](https://github.com/kaba-labs/.github/blob/main/profile/images/kaba-server-turing-pi.png?raw=true)
 
 - docs
 - build guide
