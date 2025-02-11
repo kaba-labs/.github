@@ -28,7 +28,7 @@
   - [x] Apple (not recommended - undecidable. Kaba Labs will not offer support for Apple systems)
   - [x] Window (not recommended - undecidable. Kaba Labs will not offer support for Microsoft systems)
   - [x] Android  (Closed hardware is a risk but we will try.)
-  - [] IOS (not recommended - undecidable. Kaba Labs will not offer support for Apple systems)
+  - [ ] IOS (not recommended - undecidable. Kaba Labs will not offer support for Apple systems)
 * kaba-server
   - Linux
 * kaba-cli
@@ -36,7 +36,7 @@
    - [x] Apple (not recommended - undecidable. Kaba Labs will not offer support for Apple systems)
    - [x] Window (not recommended - undecidable. Kaba Labs will not offer support for Microsoft systems)
    - [x] Android  (Closed hardware is a risk but we will try.)
-   - [] IOS (not recommended - undecidable. Kaba Labs will not offer support for Apple systems)
+   - [ ] IOS (not recommended - undecidable. Kaba Labs will not offer support for Apple systems)
 
 # TuringPi & Kaba Enclave (kaba-server/k3s)
 
