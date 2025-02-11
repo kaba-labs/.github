@@ -28,7 +28,7 @@
 
 - Kaba Console SDK/API or build your own.
 
-## TuringPi & kaba Enclave (kaba-server/k3s)
+## TuringPi & Kaba Enclave (kaba-server/k3s)
 
 ![kaba-server-turing-pi](https://github.com/kaba-labs/.github/blob/main/profile/images/kaba-server-turing-pi.png?raw=true)
 
