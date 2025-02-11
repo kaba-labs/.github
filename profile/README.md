@@ -23,6 +23,7 @@
   * APIs are useful but everything should be possible.
 
 ### OS Support
+
 * kaba
   - [x] Linux (Kaba Labs highly recommends using an operating system that can be verified for scientific use - important for both legal and/or industry applications. We also recommend only useing open hardware that has open and verifiable firmware)
   - [x] Apple (not recommended - undecidable. Kaba Labs will not offer support for Apple systems)
