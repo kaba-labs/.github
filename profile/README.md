@@ -67,7 +67,10 @@ A turnkey stack for a Kaba cluster.
 - Custom? (HDK + WebASM)
 
 ![kaba-server-turing-pi](https://github.com/kaba-labs/.github/blob/main/profile/images/kaba-server-turing-pi.png?raw=true)
-<img height="400px" src="https://github.com/kaba-labs/.github/blob/main/profile/images/kaba-enclave.jpg?raw=true" alt="kaba-enclave">
+
+### One In Action =]
+
+<img height="600px" src="https://github.com/kaba-labs/.github/blob/main/profile/images/kaba-enclave.jpg?raw=true" alt="kaba-enclave">
 
 ---
 
