@@ -68,7 +68,7 @@ A turnkey stack for a Kaba cluster.
 
 ![kaba-server-turing-pi](https://github.com/kaba-labs/.github/blob/main/profile/images/kaba-server-turing-pi.png?raw=true)
 
-### One In Action =]
+### One In Prep =]
 
 <img height="600px" src="https://github.com/kaba-labs/.github/blob/main/profile/images/kaba-enclave.jpg?raw=true" alt="kaba-enclave">
 
