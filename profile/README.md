@@ -22,6 +22,12 @@
   * Language shouldn't matter.
   * APIs are useful but everything should be possible.
 
+### OS Support
+
+- [x] Linux (Kaba Labs highly recommends using an operating system that can be verified for scientific use - important for both legal and/or industry or scientific applications)
+- [] MacOS (not recommended - undecidable. Kaba Labs will not offer support for Apple systems)
+- [] Window (not recommended - undecidable. Kaba Labs will not offer support for Apple systems)
+
 # TuringPi & Kaba Enclave (kaba-server/k3s)
 
 Kaba Enclave is a turnkey stack configuration for a Kaba cluster and seed/peer server.
@@ -38,10 +44,9 @@ Kaba Enclave is a turnkey stack configuration for a Kaba cluster and seed/peer s
   
 ### Sync Is The New Cloud
 
-- p2p/direct
+- p2p/direct to endpoint by default
 - .kaba routing - internal TLD
-- mesh networks for files/compute/wasm
-
+- mesh networks and compute on demand from linux computers
  ### Drop In Sensors to Matter and Zigbee
 
  - TBD
