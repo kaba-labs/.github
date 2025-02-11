@@ -58,16 +58,15 @@ A turnkey stack for a Kaba cluster.
 - matter/zigbee sensor support / firmware & flashing tools built in
 - Network Router / Network Security / RF Security
 - build your own [coming soon](https://github.com/kaba-labs)
-- docs & how-tos [coming soon](https://github.com/kaba-labs)
   
 ### Sync Is The New Cloud and Sensors Everywhere
 
-- Local, private and p2p by default
+- local, private and p2p by default
 - .kaba routing internal p2p TLD (name customizable by group policy)
 - mesh networks and compute on demand from other systems you already own
-- Matter
-- Zigbee
-- Custom (HDK + WebASM)
+- matter support
+- Zigbee support
+- Custom? (HDK + WebASM)
 
 ![kaba-server-turing-pi](https://github.com/kaba-labs/.github/blob/main/profile/images/kaba-server-turing-pi.png?raw=true)
 
