@@ -2,7 +2,7 @@
 
 ### GPLv3 Everything
 
-- kaba (Console) [coming soon](https://github.com/kaba-labs)
+- kaba (console) [coming soon](https://github.com/kaba-labs)
 - kaba-server (p2p/sync/websockets/policy/peer-seed) [coming soon](https://github.com/kaba-labs)
 - kaba-cli (headless-console) [coming soon](https://github.com/kaba-labs)
 
