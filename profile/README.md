@@ -47,7 +47,7 @@ Kaba Labs highly recommends using an operating system that can be verified for s
 
 # Kaba Enclave (kaba-server/k3s)
 
-Kaba Enclave is a turnkey stack configuration for a Kaba cluster and seed/peer server.
+A turnkey stack for a Kaba cluster.
 
 ### What is it?
 
@@ -55,9 +55,10 @@ Kaba Enclave is a turnkey stack configuration for a Kaba cluster and seed/peer s
 - Webasm, Redundancy, Networking, Storage, ML
 - Meshtastic/LoRa routing to endpoints
 - 3G/4G,WWAN LTE,GPS routing to endpoints
+- matter/zigbee sensor support / firmware & flashing tools built in
 - Network Router / Network Security / RF Security
+- build your own [coming soon](https://github.com/kaba-labs)
 - docs & how-tos [coming soon](https://github.com/kaba-labs)
-- build guide or kaba.ai pre-builds.
   
 ### Sync Is The New Cloud
 
