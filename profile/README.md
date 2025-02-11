@@ -2,9 +2,9 @@
 
 ### GPLv3 Everything
 
-- kaba (Console)
-- kaba-server (p2p/sync/websockets/policy/peer-seed)
-- kaba-cli (headless-console)
+- kaba (Console) [link](https://github.com/kaba-labs)
+- kaba-server (p2p/sync/websockets/policy/peer-seed) [link](https://github.com/kaba-labs)
+- kaba-cli (headless-console) [link](https://github.com/kaba-labs)
 
 ### When & Code Audits
 
@@ -16,10 +16,10 @@
 
 - In progress
 - Past Manifest v3 to Real applications (native gpu/io) and edge compute (wasm)
-- window.kaba & window.security
-- Kaba Console SDK/API or build your own.
+- Kaba SDK or build your own.
+  * window.kaba & window.security
   * Everything should be changeable.
-  * Language shouldn't matter
+  * Language shouldn't matter.
   * APIs are useful but everything should be possible.
 
 # TuringPi & Kaba Enclave (kaba-server/k3s)
@@ -33,7 +33,6 @@ Kaba Enclave is a turnkey stack configuration for a Kaba cluster and seed/peer s
 - Meshtastic/LoRa routing to endpoints
 - 3G/4G,WWAN LTE,GPS routing to endpoints
 - Network Router / Network Security / RF Security
-- etc...
 - docs & how-tos
 - build guide or kaba.ai pre-builds.
   
