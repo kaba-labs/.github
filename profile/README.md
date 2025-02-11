@@ -22,5 +22,9 @@
 ## window.security & window.ai
  * Kaba Console SDK/API or build your own.
 
+## TuringPi & kaba Enclave (kaba-server/k3s)
+ * docs
+ * build guide
+
 ---
 ([Kaba Kaba!](https://kaba.ai))
