@@ -31,9 +31,12 @@ Kaba Enclave is a turnkey stack configuration for a Kaba cluster and seed/peer s
 - [turingpi](https://turingpi.com/)
 - Webasm, Redundancy, Networking, Storage, ML
 - Meshtastic/LoRa - peer/seed
+- Router & Extender
+- Media Server
+- etc...
 - docs & how-tos
-- build guide or kaba.ai pre-builds for mesh-networks and distributed sensors for AI input.
-
+- build guide or kaba.ai pre-builds.
+  
 ### Sync Is The New Cloud
 
 - p2p/direct
