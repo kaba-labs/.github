@@ -15,9 +15,12 @@
 ### Documentation / Kaba Protocol SDK
 
 - In progress
-- Past Manifest v3 to Real applications and edge compute
-- window.kaba & window.ai/window.security
+- Past Manifest v3 to Real applications (native gpu/io) and edge compute (wasm)
+- window.kaba & window.ai & window.security
 - Kaba Console SDK/API or build your own.
+  * Everything should be changeable.
+  * Language shouldn't matter
+  * APIs are useful but everything should be possible.
 
 # TuringPi & Kaba Enclave (kaba-server/k3s)
 
