@@ -64,9 +64,12 @@ Kaba Enclave is a turnkey stack configuration for a Kaba cluster and seed/peer s
 - p2p/direct to endpoint by default
 - .kaba routing - internal TLD
 - mesh networks and compute on demand from linux computers
- ### Drop In Sensors to Matter and Zigbee
 
- - TBD
+ ### Drop In Sensors
+
+ - Matter
+ - Zigbee
+ - Custom (Kaba WebASM SDK)
 
 ![kaba-server-turing-pi](https://github.com/kaba-labs/.github/blob/main/profile/images/kaba-server-turing-pi.png?raw=true)
 
