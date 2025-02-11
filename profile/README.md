@@ -32,6 +32,7 @@
 
 ![kaba-server-turing-pi](https://github.com/kaba-labs/.github/blob/main/profile/images/kaba-server-turing-pi.png?raw=true)
 
+- ![turingpi](https://turingpi.com/)
 - docs
 - build guide
 
