@@ -2,9 +2,9 @@
 
 ### GPLv3 Everything
 
-- kaba (Console) [link](https://github.com/kaba-labs)
-- kaba-server (p2p/sync/websockets/policy/peer-seed) [link](https://github.com/kaba-labs)
-- kaba-cli (headless-console) [link](https://github.com/kaba-labs)
+- kaba (Console) [coming soon](https://github.com/kaba-labs)
+- kaba-server (p2p/sync/websockets/policy/peer-seed) [coming soon](https://github.com/kaba-labs)
+- kaba-cli (headless-console) [coming soon](https://github.com/kaba-labs)
 
 ### When & Code Audits
 
@@ -28,12 +28,12 @@ Kaba Enclave is a turnkey stack configuration for a Kaba cluster and seed/peer s
 
 ### What is it?
 
-- [turingpi](https://turingpi.com/)
+- [turingpi](https://turingpi.com/) + kaba-server = 💝
 - Webasm, Redundancy, Networking, Storage, ML
 - Meshtastic/LoRa routing to endpoints
 - 3G/4G,WWAN LTE,GPS routing to endpoints
 - Network Router / Network Security / RF Security
-- docs & how-tos
+- docs & how-tos [coming soon](https://github.com/kaba-labs)
 - build guide or kaba.ai pre-builds.
   
 ### Sync Is The New Cloud
