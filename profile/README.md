@@ -17,6 +17,7 @@
 - In progress
 - Past Manifest v3 to Real applications (native gpu/io) and edge compute (wasm)
 - Kaba SDK or build your own.
+  * i3, Hyprland configuration support (tools for supporting more)
   * window.kaba & window.security
   * Everything should be changeable.
   * Language shouldn't matter.
@@ -43,7 +44,7 @@ Kaba Labs highly recommends using an operating system that can be verified for s
   - [ ] Android (select distributions that limit software risk)
   - [ ] IOS (NOT recommended)
 
-# TuringPi & Kaba Enclave (kaba-server/k3s)
+# Kaba Enclave (kaba-server/k3s)
 
 Kaba Enclave is a turnkey stack configuration for a Kaba cluster and seed/peer server.
 
