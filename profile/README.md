@@ -26,19 +26,26 @@
 
 Kaba Enclave is a turnkey stack configuration for a Kaba cluster and seed/peer server.
 
+### What is it?
+
 - [turingpi](https://turingpi.com/)
 - Webasm, Redundancy, Networking, Storage, ML
 - Meshtastic/LoRa - peer/seed
 - docs & how-tos
 - build guide or kaba.ai pre-builds for mesh-networks and distributed sensors for AI input.
 
-![kaba-server-turing-pi](https://github.com/kaba-labs/.github/blob/main/profile/images/kaba-server-turing-pi.png?raw=true)
-
-## Sync Is The New Cloud
+### Sync Is The New Cloud
 
 - p2p/direct
-- .kaba routing internal routing
+- .kaba routing - internal TLD
 - mesh networks for files/compute/wasm
+
+ ### Drop In Sensors to Matter and Zigbee
+
+ - TBD
+
+![kaba-server-turing-pi](https://github.com/kaba-labs/.github/blob/main/profile/images/kaba-server-turing-pi.png?raw=true)
+
 
 ---
 
