@@ -1,30 +1,40 @@
 # Kaba Source Code & Security Timeline
 
 ## GPLv3 Everything
-  * kaba (Console)
-  * kaba-server (p2p/sync/websockets/policy/peer-seed)
-  * kaba-cli (headless-console)
+
+- kaba (Console)
+- kaba-server (p2p/sync/websockets/policy/peer-seed)
+- kaba-cli (headless-console)
 
 ## Code Audits
-  * kaba (in progress)
-  * kaba-server (in progress)
-  * kaba-cli (TBD)
-  * 
+
+- kaba (in progress)
+- kaba-server (in progress)
+- kaba-cli (TBD)
+-
+
 ## Documentation / Kaba Protocol SDK
- * In progress
- * Past Manifest v3 to Real applications and edge compute
+
+- In progress
+- Past Manifest v3 to Real applications and edge compute
 
 ## Sync Is The New Cloud
- * p2p/direct
- * .kaba routing
- * mesh networks for files/compute/wasm
+
+- p2p/direct
+- .kaba routing
+- mesh networks for files/compute/wasm
 
 ## window.security & window.ai
- * Kaba Console SDK/API or build your own.
+
+- Kaba Console SDK/API or build your own.
 
 ## TuringPi & kaba Enclave (kaba-server/k3s)
- * docs
- * build guide
+
+![alt text](https://github.com/kaba-labs/.github/blob/main/kaba-server-turing-pi.png?raw=true)
+
+- docs
+- build guide
 
 ---
+
 ([Kaba Kaba!](https://kaba.ai))
