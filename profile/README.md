@@ -1,6 +1,8 @@
 # Source Code & Timeline
 
-Be sure to checkout [kaba.ai](https://kaba.ai) first if you havent. It will give you a high level overview. This is more in the weeds on open source, deployment, clustering and hardware. 
+Be sure to checkout [kaba.ai](https://kaba.ai) first if you haven't.
+It will give you a high level overview of product specifics.
+This README is in the weeds on open source, deployment, clustering, and hardware.
 
 ### GPLv3 Everything
 
