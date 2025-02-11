@@ -6,22 +6,23 @@
 - kaba-server (p2p/sync/websockets/policy/peer-seed) [coming soon](https://github.com/kaba-labs)
 - kaba-cli (headless-console) [coming soon](https://github.com/kaba-labs)
 
-### When & Code Audits
+### Code Audits
 
 - kaba (in progress)
 - kaba-server (in progress)
 - kaba-cli (TBD)
 
-### Documentation / Kaba HDK (hack-it development kit)
+###  Kaba HDK (hack-it development kit)
 
 - In progress
 - Past Manifest v3 to Real applications (native gpu/io) and edge compute (wasm)
-- Kaba SDK or build your own.
+- Kaba HDK Basics
   * Everything should be changeable.
   * Language shouldn't matter.
   * i3, Hyprland configuration support (tools for supporting others)
   * Hardware accelerated Terminal
   * New Window Objects: window.kaba & window.security
+- Use it or build your own.
 
 ### OS Support
 
@@ -61,10 +62,10 @@ A turnkey stack for a Kaba cluster.
   
 ### Sync Is The New Cloud
 
-- p2p/direct to endpoint by default
-- .kaba routing - internal TLD
-- mesh networks and compute on demand from linux computers
-
+- Local, private and p2p by default
+- .kaba routing internal p2p TLD (name customizable by group policy)
+- mesh networks and compute on demand from other systems you already own
+  
  ### Drop In Sensors
 
  - Matter
