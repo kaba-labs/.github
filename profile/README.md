@@ -31,7 +31,7 @@ Kaba Labs highly recommends using an operating system that can be verified for s
 * kaba
   - [x] Linux (RECOMMENDED)
   - [x] Apple (NOT recommended)
-  - [x] Window (NOT recommended)
+  - [x] Windows (NOT recommended)
   - [ ] Android (select distributions that limit software risk)
   - [ ] IOS (NOT recommended)
        
@@ -41,7 +41,7 @@ Kaba Labs highly recommends using an operating system that can be verified for s
 * kaba-cli
   - [x] Linux (RECOMMENDED)
   - [x] Apple (NOT recommended)
-  - [x] Window (NOT recommended)
+  - [x] Windows (NOT recommended)
   - [ ] Android (select distributions that limit software risk)
   - [ ] IOS (NOT recommended)
 
@@ -60,17 +60,14 @@ A turnkey stack for a Kaba cluster.
 - build your own [coming soon](https://github.com/kaba-labs)
 - docs & how-tos [coming soon](https://github.com/kaba-labs)
   
-### Sync Is The New Cloud
+### Sync Is The New Cloud and Sensors Everywhere
 
 - Local, private and p2p by default
 - .kaba routing internal p2p TLD (name customizable by group policy)
 - mesh networks and compute on demand from other systems you already own
-  
- ### Drop In Sensors
-
- - Matter
- - Zigbee
- - Custom (HDK + WebASM)
+- Matter
+- Zigbee
+- Custom (HDK + WebASM)
 
 ![kaba-server-turing-pi](https://github.com/kaba-labs/.github/blob/main/profile/images/kaba-server-turing-pi.png?raw=true)
 
