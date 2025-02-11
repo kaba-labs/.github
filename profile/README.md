@@ -30,7 +30,7 @@ Kaba Labs highly recommends using an operating system that can be verified for s
   - [x] Linux (RECOMMENDED)
   - [x] Apple (NOT recommended)
   - [x] Window (NOT recommended)
-  - [ ] Android (select distributions that limit risk)
+  - [ ] Android (select distributions that limit software risk)
   - [ ] IOS (NOT recommended)
        
 * kaba-server
@@ -40,7 +40,7 @@ Kaba Labs highly recommends using an operating system that can be verified for s
   - [x] Linux (RECOMMENDED)
   - [x] Apple (NOT recommended)
   - [x] Window (NOT recommended)
-  - [ ] Android (select distributions that limit risk)
+  - [ ] Android (select distributions that limit software risk)
   - [ ] IOS (NOT recommended)
 
 # TuringPi & Kaba Enclave (kaba-server/k3s)
