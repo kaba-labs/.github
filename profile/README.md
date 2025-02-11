@@ -32,7 +32,7 @@ Kaba Enclave is a turnkey stack configuration for a Kaba cluster and seed/peer s
 - Webasm, Redundancy, Networking, Storage, ML
 - Meshtastic/LoRa routing to endpoints
 - 3G/4G,WWAN LTE,GPS routing to endpoints
-- Network Router / Network Security
+- Network Router / Network Security / RF Security
 - etc...
 - docs & how-tos
 - build guide or kaba.ai pre-builds.
