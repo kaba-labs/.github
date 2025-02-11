@@ -57,7 +57,7 @@ A turnkey stack for a Kaba cluster.
 - Network Router / Network Security / RF Security
 - build your own [coming soon](https://github.com/kaba-labs)
 
-### Sync Is The New Cloud and Sensors Everywhere
+### Sync Is The New Cloud and we need more Sensors
 
 - local, private and p2p by default
 - .kaba routing internal p2p TLD (name customizable by group policy)
