@@ -1,7 +1,5 @@
 # Kaba Source Code & Security Timeline
 
-## About The Source
-
 ### GPLv3 Everything
 
 - kaba (Console)
@@ -18,12 +16,10 @@
 
 - In progress
 - Past Manifest v3 to Real applications and edge compute
-
-## window.kaba & window.ai/window.security
-
+- window.kaba & window.ai/window.security
 - Kaba Console SDK/API or build your own.
 
-## TuringPi & Kaba Enclave (kaba-server/k3s)
+# TuringPi & Kaba Enclave (kaba-server/k3s)
 
 Kaba Enclave is a turnkey stack configuration for a Kaba cluster and seed/peer server.
 
