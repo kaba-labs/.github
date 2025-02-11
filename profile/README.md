@@ -17,12 +17,11 @@
 - In progress
 - Past Manifest v3 to Real applications (native gpu/io) and edge compute (wasm)
 - Kaba SDK or build your own.
+  * Everything should be changeable.
+  * Language shouldn't matter.
   * i3, Hyprland configuration support (tools for supporting others)
   * Hardware accelerated Terminal
   * New Window Objects: window.kaba & window.security
-  * !! Everything should be changeable.
-  * !! Language shouldn't matter.
-  * !! APIs are useful but everything should be possible.
 
 ### OS Support
 
