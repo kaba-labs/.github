@@ -24,22 +24,24 @@
 
 ### OS Support
 
+Kaba Labs highly recommends using an operating system that can be verified for scientific use - important for both legal and/or industry applications. We also recommend only useing open hardware that has open and verifiable firmware.
+
 * kaba
-  - [x] Linux (Kaba Labs highly recommends using an operating system that can be verified for scientific use - important for both legal and/or industry applications. We also recommend only useing open hardware that has open and verifiable firmware)
-  - [x] Apple (not recommended - undecidable. Kaba Labs will not offer support for Apple systems)
-  - [x] Window (not recommended - undecidable. Kaba Labs will not offer support for Microsoft systems)
+  - [x] Linux (RECOMMENDED)
+  - [x] Apple (NOT recommended)
+  - [x] Window (NOT recommended)
   - [ ] Android (select distributions that limit risk)
-  - [ ] IOS (TBD - undecidable. Kaba Labs will not offer support for Apple systems)
+  - [ ] IOS (NOT recommended)
        
 * kaba-server
   - [x] Linux
         
 * kaba-cli
-   - [x] Linux (Kaba Labs highly recommends using an operating system that can be verified for scientific use - important for both legal and/or industry applications. We also recommend only useing open hardware that has open and verifiable firmware)
-   - [x] Apple (not recommended - undecidable. Kaba Labs will not offer support for Apple systems)
-   - [x] Window (not recommended - undecidable. Kaba Labs will not offer support for Microsoft systems)
-   - [ ] Android (select distributions that limit risk)
-   - [ ] IOS (no support)
+  - [x] Linux (RECOMMENDED)
+  - [x] Apple (NOT recommended)
+  - [x] Window (NOT recommended)
+  - [ ] Android (select distributions that limit risk)
+  - [ ] IOS (NOT recommended)
 
 # TuringPi & Kaba Enclave (kaba-server/k3s)
 
