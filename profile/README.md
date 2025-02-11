@@ -11,7 +11,6 @@
 - kaba (in progress)
 - kaba-server (in progress)
 - kaba-cli (TBD)
--
 
 ## Documentation / Kaba Protocol SDK
 
