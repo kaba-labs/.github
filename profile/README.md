@@ -12,7 +12,7 @@
 - kaba-server (in progress)
 - kaba-cli (TBD)
 
-### Documentation / Kaba SDK
+### Documentation / Kaba HDK
 
 - In progress
 - Past Manifest v3 to Real applications (native gpu/io) and edge compute (wasm)
