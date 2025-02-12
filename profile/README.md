@@ -4,6 +4,8 @@ Be sure to checkout [kaba.ai](https://kaba.ai) first if you haven't.
 It will give you a high level overview of product specifics.
 This README is in the weeds on open source, deployment, clustering, and hardware.
 
+![kaba-desktop](https://github.com/kaba-labs/.github/blob/main/profile/images/kaba-desktop.png?raw=true)
+
 ### GPLv3 Everything
 
 - kaba (console) [coming soon](https://github.com/kaba-labs)
@@ -54,6 +56,9 @@ A turnkey stack for a Kaba cluster.
 ### What is it?
 
 - [turingpi](https://turingpi.com/) + [kaba](https://kaba.ai) = 💝
+
+![turing-tweet](https://github.com/kaba-labs/.github/blob/main/profile/images/turing-tweet.png?raw=true)
+
 - Webasm, Redundancy, Networking, Storage, ML
 - Meshtastic/LoRa routing to endpoints
 - 3G/4G,WWAN LTE,GPS routing to endpoints
