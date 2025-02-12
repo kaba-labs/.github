@@ -20,7 +20,7 @@ This README is in the weeds on open source, deployment, clustering, and hardware
 
 - In progress
 - Past Manifest v3 to Real applications (native gpu/io) and edge compute (wasm)
-- Kaba HDK Basics
+- HDK Basics
     - Everything should be changeable.
     - Language shouldn't matter.
     - i3, Hyprland configuration support (tools for supporting others)
