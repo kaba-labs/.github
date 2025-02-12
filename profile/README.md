@@ -32,7 +32,7 @@ This README is in the weeds on open source, deployment, clustering, and hardware
 
 ### OS Support
 
-Kaba Labs highly recommends using an operating system that can be calibrated & verified for scientific use - important for both legal and/or industry applications. We also recommend only useing open hardware that has open and verifiable firmware.
+Kaba Labs highly recommends using an operating system that can be calibrated & verified for scientific use - important for both legal and/or industry applications of knowledge graphs (i.e models). We also recommend only useing open hardware that has open and verifiable firmware.
 
 - kaba
     - [x] Linux (RECOMMENDED)
