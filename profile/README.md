@@ -79,7 +79,7 @@ A turnkey stack for a Kaba cluster.
 
 ### One In Prep =]
 
-<img height="600px" src="https://github.com/kaba-labs/.github/blob/main/profile/images/kaba-enclave.jpg?raw=true" alt="kaba-enclave">
+<img width="400px" src="https://github.com/kaba-labs/.github/blob/main/profile/images/kaba-enclave.jpg?raw=true" alt="kaba-enclave">
 
 ---
 
