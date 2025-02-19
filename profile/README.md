@@ -74,6 +74,7 @@ A turnkey stack for a Kaba cluster.
 - matter support
 - Zigbee support
 - Custom? (HDK + WebASM)
+- Direct Sensor to model pipelines for processing and extraction.
 
 ![kaba-server-turing-pi](https://github.com/kaba-labs/.github/blob/main/profile/images/kaba-server-turing-pi.png?raw=true)
 
