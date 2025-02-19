@@ -6,11 +6,11 @@ This README is in the weeds on open source, deployment, clustering, and hardware
 
 ![kaba-desktop](https://github.com/kaba-labs/.github/blob/main/profile/images/kaba-desktop.png?raw=true)
 
-### GPLv3 Everything
+### GPLv3 Everything When It's Secure and Verifiable
 
 - kaba (console) [coming soon](https://github.com/kaba-labs)
 - kaba-server (p2p/sync/websockets/policy/peer-seed) [coming soon](https://github.com/kaba-labs)
-- kaba-cli (headless-console) [coming soon](https://github.com/kaba-labs)
+- kaba-cli (headless-console, cluster, sensors) [coming soon](https://github.com/kaba-labs)
 
 ### Code Audits
 
