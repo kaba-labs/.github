@@ -82,7 +82,7 @@ A turnkey stack for a Kaba cluster.
 
 <img width="400px" src="https://github.com/kaba-labs/.github/blob/main/profile/images/kaba-enclave.jpg?raw=true" alt="kaba-enclave">
 
-<img width="400px" src="https://github.com/kaba-labs/.github/blob/main/profile/images/kaba-software-hardware.jpg?raw=true" alt="kaba-enclave">
+<img width="400px" src="https://github.com/kaba-labs/.github/blob/main/profile/images/kaba-software-hardware.jpeg?raw=true" alt="kaba-enclave">
 
 ---
 
