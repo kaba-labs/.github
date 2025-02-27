@@ -4,6 +4,8 @@ Be sure to checkout [kaba.ai](https://kaba.ai) first if you haven't.
 It will give you a high level overview of product specifics.
 This README is in the weeds on open source, deployment, clustering, and hardware.
 
+    -
+
 ![kaba-desktop](https://github.com/kaba-labs/.github/blob/main/profile/images/kaba-desktop.png?raw=true)
 
 ### GPLv3 Everything When It's Secure and Verifiable
@@ -49,7 +51,7 @@ Kaba Labs highly recommends using an operating system that can be calibrated & v
     - [ ] Android (select distributions that limit software risk)
     - [ ] IOS (NOT recommended)
 
-# Kaba Enclave (kaba-server/k3s)
+# Kaba Enclave (the "Smart Router™" / "Data Tap™" of the future)
 
 A turnkey stack for a Kaba cluster.
 
